@@ -1,29 +1,29 @@
 <h3 align="center">
-    <img width="300px" src="https://i.imgur.com/9npUT0B.png">
+    <img width="300px" src="https://i.imgur.com/Hjv9nzC.png">
     <br><br>
 </h3>
 <p align="center">
   <a href="http://triboindie.com.br/">
-    <img src="https://img.shields.io/badge/Made--by-TriboIndie-blueviolet">
+    <img src="https://img.shields.io/badge/Made--by-TriboIndie-red">
   </a>
   <a>
   <img src="https://img.shields.io/github/license/WillianSz/TriboIndie-GameDev">
 </p>
   
 # Aula 1
-##1- Game Design - Fundamentos
+## 1- Game Design - Fundamentos
 <br>
-  -Objetivos
+ ### -Objetivos
   <br>
-  -Regras
+ ### -Regras
   <br>
-  -Desafios
+ ### -Desafios
 <br>
-##2- Ideia
+## 2- Ideia
 <br>
-##3- Planejamento
+## 3- Planejamento
 <br>
-##4- Protótipo
+## 4- Protótipo
 <br>
-##5- Polimento & detalhes
+## 5- Polimento & detalhes
 <br>
