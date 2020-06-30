@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img width="300px" src="https://i.imgur.com/Hjv9nzC.png">
+    <img height="200px" width="1000px" src="https://i.imgur.com/Hjv9nzC.png">
     <br><br>
 </h3>
 <p align="center">
@@ -11,19 +11,20 @@
 </p>
   
 # Aula 1
-## 1- Game Design - Fundamentos
+<h4> 1- Game Design - Fundamentos </h4>
 <br>
- ### -Objetivos
+ <p> -Objetivos </p>
   <br>
- ### -Regras
+<p>  -Regras </p>
   <br>
- ### -Desafios
+<p>  -Desafios </p>
 <br>
-## 2- Ideia
+
+<h4> 2- Ideia </h4>
 <br>
-## 3- Planejamento
+<h4> 3- Planejamento </h4>
 <br>
-## 4- Protótipo
+<h4> 4- Protótipo </h4>
 <br>
-## 5- Polimento & detalhes
+<h4> 5- Polimento & detalhes </h4>
 <br>
