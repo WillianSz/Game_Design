@@ -1,18 +1,5 @@
-<h3 align="center">
-    <a href="https://www.youtube.com/channel/UC-dimYqLo0K9Cm9dCQL4EQw" target="_blank">
-        <img height="200px" width="1000px" src="https://i.imgur.com/Hjv9nzC.png">
-    </a>
-    <br><br>
-</h3>
-<p align="center">
-  <a href="http://triboindie.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Made--by-TriboIndie-red">
-  </a>
-  <a>
-  <img src="https://img.shields.io/github/license/WillianSz/TriboIndie-GameDev">
-</p>
-  
-# Aula 1
+
+  # GDD
 <h4> 1<b>-</b> Game Design - Fundamentos </h4>
 <br>
 <p>  <b>-</b> Objetivos </p>
@@ -66,10 +53,6 @@
 </tr>
 </table>
 <br>
- Nosso jogo!
-Top Down  Shooter
-- Caverna
-- Pixel Art
 <br>
 <h4> 3<b>-</b> Planejamento </h4>
 <br>
